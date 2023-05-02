@@ -6,7 +6,10 @@
   Hi there! I'm studying CS at Korea Univ. since 2019.  
   <br>
   I'm interested in client-server programming.  
-  I study for being server developer!
+  <br>
+  I study for being server developer.  
+  <br>
+  I also love web programming...💕
   <br><br>
   I enjoy listening music, and watching drama. 💽📺  
   <br>
