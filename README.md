@@ -9,6 +9,7 @@
   I study for being server developer!
   <br><br>
   I enjoy listening music, and watching drama. 💽📺  
+  <br>
   I hope to develop many awesome things. 💖
 
 ### 🍀Skills
