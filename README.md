@@ -16,8 +16,6 @@
   I hope to develop many awesome things. 💖
 
 ### 🍀Skills & techniques
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-squaree&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-squaree&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> 
