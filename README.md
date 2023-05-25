@@ -32,7 +32,7 @@
   
 ### 😊Etc
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchem2&layout=compact)
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yuchem2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yuchem2)](https://solved.ac/yuchem2)
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuchem2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
