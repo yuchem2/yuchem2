@@ -14,21 +14,6 @@
   I enjoy listening music, and watching drama. 💽📺  
   <br>
   I hope to develop many awesome things. 💖
-
-### 🍀Skills & techniques
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> 
-  <br>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
-  
-### 📚Studying
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
   
 ### 😊Etc
   
