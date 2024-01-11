@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=400&height=180&section=header&text=Jaehyun%20Yoon&fontSize=32&animation=fadeln&fontAlignY=36&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=400&height=180&section=header&text=Jaehyun%20Yoon&fontSize=32&fontAlignY=36&fontColor=ffffff"/>
 </div>
 
 <div align="center">
