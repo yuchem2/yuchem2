@@ -7,8 +7,6 @@
   <br>
   I'm interested in web programming.  
   <br>
-  I study for being backend developer.  
-  <br><br>
   I enjoy listening music, and watching drama. 💽📺  
   <br>
   I hope to develop many awesome things. 💖
